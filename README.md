@@ -4,7 +4,7 @@ The greek goddess of truth, here to help Hermes with maintaining KGP's noticeboa
 
 ## Motivation
 
-Well, Hermes used to be an all capable god. The greatest messenger the world had ever seen. He was very well set to carry the simple task of delivering the notices from IITKGP's internal noticeboards to the students. But then, he faced his greatest enemy yet: KGP administration.
+Well, [Hermes](https://github.com/ghostwriternr/hermes) used to be an all capable god. The greatest messenger the world had ever seen. He was very well set to carry the simple task of delivering the notices from IITKGP's internal noticeboards to the students. But then, he faced his greatest enemy yet: KGP administration.
 
 KGP administration (KGPAd) was a puny kid after all, but that was also it's greatest power. KGPAd was doltishly evil (duh.) and simply denied Hermes his chariot (server) for him to run inside KGP. Without which, Hermes simply couldn't access the internal noticeboards nor have any way to record and store them even if he could access.
 
