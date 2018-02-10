@@ -1,4 +1,4 @@
-# veritas
+# Veritas
 
 The greek goddess of truth, here to help Hermes with maintaining KGP's noticeboard data
 
@@ -14,13 +14,25 @@ Veritas, the god of truth, offered to help this selfless god by agreeing to main
 
 ## Setup
 
-Veritas requires MongoDB specific environment variables to work.
+### Install dependencies
+
+- If running locally, MongoDB needs to be installed on the same machine as Veritas. [Installation instructions are provided on their official site](https://docs.mongodb.com/manual/installation/) for most common operating systems. If using a cloud MongoDB instance, skip this step.
+
+- Install all required python modules.
+
+```bash
+pip install -r requirements.txt
+```
 
 ### Required config variables
+
+Veritas requires MongoDB specific environment variables to work.
 
 ```sh
 MONGODB_URI="xxx" # MongoDB URI
 ```
+
+Needless to say, Veritas is dependent on [Hermes](https://github.com/ghostwriternr/hermes). In the way that Veritas would be serving no purpose without Hermes. So make sure Hermes is setup and running after start Veritas.
 
 ## License
 
