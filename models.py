@@ -17,7 +17,7 @@ def get_all(last_id=None, notice_count=15):
     notices = {}
     collections = MC.list_collection_names()
     for collection in collections:
-        type_notices = get_type(collection, notice_count)
+        type_notices = get_type(collection, last_id)
         notices[collection] = type_notices
     return notices
 
